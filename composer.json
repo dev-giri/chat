@@ -1,0 +1,27 @@
+{
+    "name": "girisoft/chat",
+    "version": "dev-master",
+    "description": "The Chat module of girisoft",
+    "authors": [
+        {
+            "name": "Dev Giri",
+            "email": "dev.giridhari@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Chat\\": ""
+        }
+    }
+}
